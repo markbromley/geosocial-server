@@ -1,0 +1,9 @@
+// GITIGNORE
+/app_constants.js
+/archive/
+/curl_requests
+/logs/
+/node_modules/
+/old/
+/sample.js
+/config/app_constants.js
