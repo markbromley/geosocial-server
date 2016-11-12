@@ -1,0 +1,42 @@
+{
+  "name": "sky_server",
+  "version": "0.0.0",
+  "description": "Description",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Bromley",
+  "license": "Commercial",
+   "dependencies": {
+		"async": "0.2.9",
+		"bcrypt": "0.7.7",
+		"exif": "0.3.3",
+		"express": "3.1.0",
+		"bunyan": "0.21.4",
+		"geo-distance-js": "0.0.2",
+		"gm": "1.14.1",
+		"csv": "0.4.0",
+		"geo-distance": "0.1.2",
+		"jwt-simple": "0.1.0",
+		"mongoose": "3.6.18",
+		"mongoose-validator": "0.2.2",
+		"csv-parse": "0.0.4",
+		"passport-http-bearer": "1.0.1",
+		"passport": "0.1.17",
+		"jsontool": "6.0.0",
+		"passport-local": "0.1.6",
+		"nodemon": "0.7.10",
+		"restify": "2.6.0",
+		"socket.io": "0.9.13",
+		"node-imagemagick": "0.1.8",
+		"rjs": "2.10.0",
+		"validator": "1.4.0",
+		"imagemagick": "0.1.3",
+		"steroids": "2.7.26",
+		"tsv": "0.2.0"
+  },
+  "subdomain":"v1",
+  "private":"true"
+}
+
